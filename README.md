@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning cool things such as XR,AI.
 - 👯 I’m looking to collaborate on More Open Source Projects.
 - 📫 How to reach me: Emmanuelodum48@gmail.com
+  <br />
  ⚡ Fun fact: I Love Drawing.
 
 ### Languages and tools:
